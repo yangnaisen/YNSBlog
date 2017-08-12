@@ -8,7 +8,6 @@ YNS's Blog
 
 欢迎来到YNS的个人主页！
 
-todo:加入课程图像
 
 
 .. toctree::
