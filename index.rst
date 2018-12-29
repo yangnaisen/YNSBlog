@@ -16,11 +16,3 @@ YNS文档记录
 
     ArticleReading/index
     ProblemSolving/index
-
-
-
-搜索
-==================
-
-
-* :ref:`search`
