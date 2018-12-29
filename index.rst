@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-YNS's Blog
+YNS文档记录
 =======================================
 
-欢迎来到YNS的个人主页！
+记录日常问题，欢迎邮件讨论
 
 
 
@@ -15,6 +15,7 @@ YNS's Blog
     :caption: 目录:
 
     ArticleReading/index
+    ProblemSolving/index
 
 
 

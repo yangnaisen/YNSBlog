@@ -56,7 +56,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'YNSBlog'
-copyright = '2017, YNS'
+copyright = '2019, YNS'
 author = 'YNS'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -163,7 +163,9 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-
+mathjax_config = {
+    'TeX': {'equationNumbers': {'autoNumber': 'AMS', 'useLabelIds': True}},
+}
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
