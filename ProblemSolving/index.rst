@@ -5,4 +5,4 @@
     :maxdepth: 2
     :numbered:
 
-    EquationNumbering.ipynb
+    Equation.ipynb
