@@ -163,9 +163,9 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-mathjax_config = {
-    'TeX': {'equationNumbers': {'autoNumber': 'AMS', 'useLabelIds': True}},
-}
+#mathjax_config = {
+#    'TeX': {'equationNumbers': {'autoNumber': 'AMS', 'useLabelIds': True}},
+#}
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
