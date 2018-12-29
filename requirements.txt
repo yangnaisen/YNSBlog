@@ -1,3 +1,5 @@
 sphinx>=1.4
 nbsphinx
 ipykernel
+sphinxcontrib-bibtex
+nbconvert!=5.4
