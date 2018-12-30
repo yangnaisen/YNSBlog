@@ -1,8 +1,6 @@
-文章阅读笔记
+Paper Reading
 =================================
 
 .. toctree::
     :maxdepth: 2
     :numbered:
-
-    

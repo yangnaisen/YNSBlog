@@ -3,10 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-YNS文档记录
+YNS' Blog
 =======================================
 
-记录日常问题，欢迎邮件讨论
+记录日常问题，欢迎邮件讨论:
+yns@mail.bnu.edu.cn
 
 
 

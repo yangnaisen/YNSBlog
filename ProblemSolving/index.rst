@@ -1,8 +1,8 @@
-实际问题解决
+Practical Tricks
 =================================
 
 .. toctree::
     :maxdepth: 2
     :numbered:
 
-    EquationNumbering.ipynb
+    PyQt5.ipynb

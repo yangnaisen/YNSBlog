@@ -55,7 +55,7 @@ source_suffix = ['.rst', '.ipynb']
 master_doc = 'index'
 
 # General information about the project.
-project = 'YNSBlog'
+project = 'YNS\' Blog'
 copyright = '2019, YNS'
 author = 'YNS'
 
