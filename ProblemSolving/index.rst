@@ -6,3 +6,4 @@ Practical Tricks
     :numbered:
 
     PyQt5.ipynb
+    GeotifGDAL.ipynb
