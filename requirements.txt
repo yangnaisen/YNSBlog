@@ -1,7 +1,9 @@
-sphinx>=1.4
-nbsphinx
-ipykernel
+sphinx==1.7.9
+nbsphinx==0.3.5
+ipykernel==5.1.0
 numpy
 matplotlib
 pandas
 nbconvert!=5.4
+ipywidgets
+sphinx-copybutton
