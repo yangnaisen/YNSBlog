@@ -5,5 +5,3 @@ numpy
 matplotlib
 pandas
 nbconvert!=5.4
-ipywidgets
-sphinx-copybutton

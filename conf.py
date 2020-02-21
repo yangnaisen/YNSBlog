@@ -38,7 +38,6 @@ extensions = [
 #    'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
-    'sphinx_copybutton',
     'IPython.sphinxext.ipython_console_highlighting',
     #'sphinx.ext.viewcode',
     'nbsphinx']
