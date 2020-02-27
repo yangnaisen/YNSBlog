@@ -7,3 +7,4 @@ Practical Tricks
 
     PyQt5.ipynb
     GeotifGDAL.ipynb
+    Utilize_GPU_on_Mac.ipynb
